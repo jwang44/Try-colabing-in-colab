@@ -3,6 +3,6 @@ Junhao Wang, Yinan Zhou, Ruilin Ji
 
 Please run the following three files cell by cell in colab, with python 3.6.
 
-- data_visualization.ipynb: this file plots the distribution of the two categories and features on both datasets. The main, variance, and skewness of each feature are also calculated.
-- Exp_patients.ipynb: this file build the logistic regression on the Orthopedic Patients Dataset.
-- Exp_creditcard.ipynb: this file build the logistic regression on the Credit Card Dataset.
+- data_visualization.ipynb: This file consists of two parts. The data visualization part plots the distribution of the two categories and features on both datasets. The data analysis part plots the correlation heatmaps of faetures. The main, variance, and skewness of each feature are also calculated.
+- Exp_patients.ipynb: This file build the logistic regression on the Orthopedic Patients Dataset.
+- Exp_creditcard.ipynb: This file build the logistic regression on the Credit Card Dataset.
